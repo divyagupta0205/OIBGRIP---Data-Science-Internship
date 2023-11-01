@@ -4,3 +4,6 @@ The description of all the tasks completed is given below:
 
 Task-1: IRIS FLOWER CLASSIFICATION
 I predicted the species of IRIS Flower using the attributes given such as:  petal width, sepal width, petal length and sepal length,. 
+
+Task-2: UNEMPLOYMENT ANALYSIS
+I explored the dataset by creating various charts and graphs using matplotlib and seaborn libraries of python for unemployment analysis.
